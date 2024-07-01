@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollowSnake", "HollowSnake.csproj", "{2B183401-9117-42F4-9C3F-DDE101C85B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B183401-9117-42F4-9C3F-DDE101C85B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B183401-9117-42F4-9C3F-DDE101C85B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B183401-9117-42F4-9C3F-DDE101C85B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B183401-9117-42F4-9C3F-DDE101C85B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF7A9CD-A43C-4E2B-93BC-8A9F5E04A360}
+	EndGlobalSection
+EndGlobal
